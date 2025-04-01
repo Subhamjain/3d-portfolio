@@ -27,6 +27,8 @@ import reckonsys from './company/reckonsys.svg';
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import aiCareerCoach from './ai-career-coach.png';
+import mern from './mern.png';
 
 export {
   logo,
@@ -54,5 +56,7 @@ export {
   jobit,
   tripguide,
   signedly,
-  reckonsys
+  reckonsys,
+  aiCareerCoach,
+  mern
 };
